@@ -1,20 +1,20 @@
-# Instagram Automation with Selenium
+# Automação para Comentários e Compartilhamentos no Instagram com Selenium
 
-## Descrição
-Este repositório contém scripts de automação para interações no Instagram, desenvolvidos com a biblioteca Selenium. Os scripts permitem que usuários automatizem o processo de comentar e compartilhar postagens, tornando a gestão de contas no Instagram mais eficiente.
+Este repositório contém scripts de automação para a plataforma Instagram, utilizando a biblioteca Selenium. O projeto é voltado para fins educacionais, com o objetivo de aprimorar conhecimentos em automação web e manipulação de dados em Python.
 
 ## Funcionalidades
-- **Automação de Comentários**: Adicione comentários em postagens de forma automatizada.
-- **Automação de Compartilhamentos**: Compartilhe publicações com contatos selecionados com um único clique.
-- **Configuração Fácil**: Scripts prontos para uso que podem ser configurados rapidamente para atender às suas necessidades.
+
+- **Automação de Comentários**: Permite comentar em publicações de forma automática.
+- **Automação de Compartilhamentos**: Facilita o compartilhamento de publicações com contatos no Instagram.
+
+## Aviso Importante
+
+Este projeto foi desenvolvido exclusivamente para fins de estudo e aprendizado. A automação de interações em redes sociais pode violar os termos de serviço de plataformas como o Instagram. Recomenda-se cautela e responsabilidade ao utilizar esses scripts. O uso indevido pode resultar em penalizações na conta de usuário, como a suspensão ou o banimento.
 
 ## Pré-requisitos
-Antes de executar os scripts, certifique-se de ter os seguintes itens instalados:
-- Python 3.x
-- Selenium
-- WebDriver compatível com o navegador (Chrome, Firefox, etc.)
 
-## Instalação
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/Instagram-Automation-Selenium.git
+Para executar os scripts, é necessário:
+
+- Python 3.x instalado.
+- Biblioteca Selenium instalada (`pip install selenium`).
+- WebDriver do navegador correspondente (Chrome, Safari, etc.) configurado e acessível no PATH.
