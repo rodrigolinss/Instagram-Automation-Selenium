@@ -23,7 +23,6 @@ Para executar os scripts, é necessário:
 
 Para que os scripts funcionem corretamente, é necessário criar um arquivo `.env` na raiz do projeto, contendo suas credenciais de acesso ao Instagram no seguinte formato:
 
-INSTAGRAM_USERNAME=usuario
-
-INSTAGRAM_PASSWORD=senha
+`INSTAGRAM_USERNAME=usuario
+INSTAGRAM_PASSWORD=senha`
 
