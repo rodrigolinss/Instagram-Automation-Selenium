@@ -18,3 +18,11 @@ Para executar os scripts, é necessário:
 - Python 3.x instalado.
 - Biblioteca Selenium instalada (`pip install selenium`).
 - WebDriver do navegador correspondente (Chrome, Safari, etc.) configurado e acessível no PATH.
+
+## Configuração do Arquivo `.env`
+
+Para que os scripts funcionem corretamente, é necessário criar um arquivo `.env` na raiz do projeto, contendo suas credenciais de acesso ao Instagram no seguinte formato:
+
+INSTAGRAM_USERNAME=usuario 
+INSTAGRAM_PASSWORD=senha
+
