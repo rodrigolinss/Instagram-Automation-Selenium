@@ -1,6 +1,6 @@
 # Automação para Comentários e Compartilhamentos no Instagram com Selenium
 
-Este repositório contém scripts de automação para a plataforma Instagram, utilizando a biblioteca Selenium. O projeto é voltado para fins educacionais, com o objetivo de aprimorar conhecimentos em automação web e manipulação de dados em Python.
+Este repositório contém scripts de automação para a plataforma Instagram, utilizando a biblioteca Selenium. O projeto é voltado para **fins educacionais**, com o objetivo de aprimorar conhecimentos em automação web e manipulação de dados em Python.
 
 ## Funcionalidades
 
