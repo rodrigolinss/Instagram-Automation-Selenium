@@ -4,8 +4,8 @@ Este repositório contém scripts de automação para a plataforma Instagram, ut
 
 ## Funcionalidades
 
-- **Automação de Comentários**: Permite comentar em publicações de forma automática.
-- **Automação de Compartilhamentos**: Facilita o compartilhamento de publicações com contatos no Instagram.
+- **Comment_automation**: Permite comentar em publicações de forma automática.
+- **Share_automation**: Facilita o compartilhamento de publicações com contatos no Instagram.
 
 ## Aviso Importante
 
